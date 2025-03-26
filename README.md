@@ -1,3 +1,3 @@
 # Simple Redis Server
 
-A simple event-loop and coroutine based Redis Server implementation in modern C++.
+A simple Redis Server implementation in modern C++ built around an event-loop and coroutines.
